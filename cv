@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>CV</title>
+</head>
+<body>
+<DIV id=¨Nombre¨> 
+<h2>Nombre</h2>
+<p>Direccion // numero de celular</p>
+<br>
+<br>
+<br>
+
+<fieldset>
+    <legend>Datos generales</legend>
+    <ul>
+        <li>Fecha de Nacimiento</li>
+        <li>Cedula</li>
+        <li>Nacionalidad</li>
+        <li>Estado Civil</li>
+        <li>Imail</li>
+        <li>Lenguajes que dominas</li>
+
+    </ul>
+
+
+</fieldset>
+<fieldset>
+    <legend>Estudios Academicos</legend>
+    <ol>
+        <li>Primaria</li>
+        <li>secundaria</li>
+    </ol>
+</fieldset>
+</DIV> 
+    <HEad>
+    </HTML>
+   
